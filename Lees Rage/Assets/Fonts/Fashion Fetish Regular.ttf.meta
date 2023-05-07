@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1df8928e37d6d184e8b1ed527cb62b40
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Fashion Fetish
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 41111e9d417a808459cd26c54884a73c, type: 3}
+  - {fileID: 12800000, guid: d18a5189ddc98944c8a01b151a1c1f47, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
